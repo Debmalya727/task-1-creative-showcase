@@ -2,7 +2,7 @@
 
 ## Overview
 **Creative Showcase** is a responsive Full Stack Single Page Application (SPA) where artists can upload and showcase their digital memories. It features a modern **Masonry Grid Layout** (Pinterest-style) and secure user authentication.
-
+**Live Link** https://task-1-creative-showcase.vercel.app/
 This project fulfills the **Task 1** requirements of the internship assessment, utilizing **React**, **Tailwind CSS**, and **Firebase** (Bonus Stack).
 
 ## 🚀 Features
